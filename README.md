@@ -80,7 +80,6 @@ flowchart TD
     D3 --> E
     E --> F[Bokeh Dashboard]
 
-</details>
 
 > ✅ GitHub will automatically render this Mermaid diagram when you save.
 
