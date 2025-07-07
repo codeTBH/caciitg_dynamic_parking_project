@@ -79,17 +79,7 @@ flowchart TD
     D2 --> E
     D3 --> E
     E --> F[Bokeh Dashboard]
-
-
-> ✅ GitHub will automatically render this Mermaid diagram when you save.
-
----
-
-#### 🧠 Step 2: Add the Project Architecture & Workflow Explanation
-
-1. Directly below the diagram, paste this:
-
-```markdown
+```
 ## 🧠 Project Architecture & Workflow
 
 1. **Data Ingestion**  
