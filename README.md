@@ -39,7 +39,7 @@ This project simulates a real-time dynamic pricing engine for urban parking lots
 
 ## 📁 Files
 
-- `caiitg_parking_pricing.ipynb`: Main notebook with all models and visualizations
+- `caiitg_parking_pricing_final.ipynb`: Main notebook with all models and visualizations
 - `dataset.csv`: Input dataset containing timestamped parking lot data
 - `parking_stream.csv`: Preprocessed stream-ready data
 
